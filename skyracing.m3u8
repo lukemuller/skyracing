@@ -1,0 +1,5 @@
+#EXTINF:-1 tvg-logo="http://www.racingfans.com.au/uploaded/articles/skyracing.jpg",Sky Racing 1
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1_extreme@569779.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.racingfans.com.au/uploaded/articles/skyracing.jpg",Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
