@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="Sky Racing Channels">
+  <channel id="tv.sky1rw">
+    <display-name>Sky Racing #1</display-name>
+    <icon src="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing1.png"/>
+  </channel>
+  <channel id="tv.sky2rw">
+    <display-name>Sky Racing #2</display-name>
+    <icon src="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing2.png"/>
+  </channel>
+  <programme channel="tv.sky1rw" start="20210101000000 +0000" stop="20230101000000 +0000">
+    <title>Sky Racing #1</title>
+    <desc>Comprehensive Australian thoroughbred, harness and greyhound racing coverage.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="tv.sky2rw" start="20210101000000 +0000" stop="20230101000000 +0000">
+    <title>Sky Racing #2</title>
+    <desc>International racing, as well as offering viewers extended coverage and choice of Australian thoroughbred, harness and greyhound racing.</desc>
+    <category>Sport</category>
+  </programme>
+</tv>
