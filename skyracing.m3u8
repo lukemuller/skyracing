@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="tv.sky1rw" tvg-logo="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing1.png",Sky Racing #1
-https://sportsbet.akamaized.net/hls/live/2036961/sky1/index.m3u8?hdnts=st=1660357019~exp=1660443419~acl=/*~hmac=c9f22dffbf7dc301e91dd2e206665fbf9be96be9ac1c5c7dfb63a5436c8b2056
+https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index_extreme.m3u8
 
 #EXTINF:-1 tvg-id="tv.sky2rw" tvg-logo="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing2.png",Sky Racing #2
 https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index_extreme.m3u8
