@@ -9,12 +9,12 @@
     <display-name>Sky Racing #2</display-name>
     <icon src="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing2.png"/>
   </channel>
-  <programme channel="tv.sky1rw" start="20210101000000 +0000" stop="20230101000000 +0000">
+  <programme channel="tv.sky1rw" start="20210101000000 +0000" stop="20270101000000 +0000">
     <title>Sky Racing #1</title>
     <desc>Comprehensive Australian thoroughbred, harness and greyhound racing coverage.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="tv.sky2rw" start="20210101000000 +0000" stop="20230101000000 +0000">
+  <programme channel="tv.sky2rw" start="20210101000000 +0000" stop="20270101000000 +0000">
     <title>Sky Racing #2</title>
     <desc>International racing, as well as offering viewers extended coverage and choice of Australian thoroughbred, harness and greyhound racing.</desc>
     <category>Sport</category>
