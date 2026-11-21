@@ -5,8 +5,24 @@
     <display-name>Sky Racing #1</display-name>
     <icon src="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing1.png"/>
   </channel>
+  <channel id="tv.sky1rwb">
+    <display-name>Sky Racing #1 Backup</display-name>
+    <icon src="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing1.png"/>
+  </channel>
+  <channel id="tv.sky1rwf">
+    <display-name>Sky Racing #1 Faster</display-name>
+    <icon src="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing1.png"/>
+  </channel>
+  <channel id="tv.sky1rwfb">
+    <display-name>Sky Racing #1 Faster Backup</display-name>
+    <icon src="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing1.png"/>
+  </channel>
   <channel id="tv.sky2rw">
     <display-name>Sky Racing #2</display-name>
+    <icon src="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing2.png"/>
+  </channel>
+  <channel id="tv.sky2rwf">
+    <display-name>Sky Racing #2 Faster</display-name>
     <icon src="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing2.png"/>
   </channel>
   <programme channel="tv.sky1rw" start="20210101000000 +0000" stop="20280101000000 +0000">
