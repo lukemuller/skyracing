@@ -1,13 +1,13 @@
 #EXTINF:-1 tvg-id="tv.sky1rw" tvg-logo="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing1.png",Sky Racing #1
 https://fastly.cdn.anywhere.theo.live/d002/af28ecfe-8700-4b36-b828-6a8a52aad848/170oke0z5v0zz4bc0llqlj1ye/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="tv.sky1rw" tvg-logo="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing1.png",Sky Racing #1 Backup
+#EXTINF:-1 tvg-id="tv.sky1rwb" tvg-logo="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing1.png",Sky Racing #1 Backup
 https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/_540.m3u8
 
 #EXTINF:-1 tvg-id="tv.sky1rwf" tvg-logo="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing1.png",Sky Racing #1 Faster
 https://fastly.cdn.anywhere.theo.live/l004/af28ecfe-8700-4b36-b828-6a8a52aad848/26rg6y91ajl4yc5mv0vas5bu7/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="tv.sky1rwf" tvg-logo="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing1.png",Sky Racing #1 Faster Backup
+#EXTINF:-1 tvg-id="tv.sky1rwfb" tvg-logo="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing1.png",Sky Racing #1 Faster Backup
 https://fastly.cdn.anywhere.theo.live/tabcorp-sydney-backup-2/af28ecfe-8700-4b36-b828-6a8a52aad848/4i4bjvehht8bh4yb4ksmksom5/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="tv.sky2rw" tvg-logo="https://raw.githubusercontent.com/lukemuller/skyracing/main/SkyRacing2.png",Sky Racing #2
